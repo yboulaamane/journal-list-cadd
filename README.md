@@ -1,7 +1,4 @@
-# journal-list-cadd
-
-![image](https://github.com/yboulaamane/journal-list-cadd/assets/7014404/789c8c4a-0df5-4802-b3f3-b19c6c594ce5)
-
+# 🗞️journal-list-cadd🗞️
 
 | Journal Name                                      | Q Ranking | Impact Factor | Subscription | Publishing House                 | URL                                                                                   |
 |---------------------------------------------------|-----------|--------------|--------------|---------------------------------|---------------------------------------------------------------------------------------|
